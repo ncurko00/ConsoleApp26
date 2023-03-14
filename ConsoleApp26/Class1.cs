@@ -10,5 +10,9 @@ namespace ConsoleApp26
         {
             Console.WriteLine("Novo");
         }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Novo");
+        }
     }
 }
